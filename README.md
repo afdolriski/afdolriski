@@ -20,6 +20,8 @@ My name is Afdol, I am a software engineer from Indonesia.
 
 <h2>Find me</h2>
 
+[![Linkedin: afdolriski](https://img.shields.io/badge/-Afdol_Rizki_Halim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afdolriski/)](https://www.linkedin.com/in/afdolriski/)
+[![GitHub afdolriski](https://img.shields.io/github/followers/afdolriski?label=follow&style=social)](https://github.com/afdolriski)
 
 ---
 
